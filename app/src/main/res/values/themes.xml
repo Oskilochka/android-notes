@@ -9,7 +9,7 @@
 
     <style name="ThemeOverlay.search" parent="BaseTheme">
         <item name="android:editTextColor">@color/white</item>
-        <item name="android:textColorHint">@color/gray</item>
+        <item name="android:textColorHint">@color/hint</item>
     </style>
 
 </resources>
